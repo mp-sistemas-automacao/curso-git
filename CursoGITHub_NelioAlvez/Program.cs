@@ -12,6 +12,12 @@ namespace CursoGITHub_NelioAlvez
             {
                 Console.WriteLine("I = " + i.ToString());
             }
+
+            for (int i = 0; i < 50; i++)
+            {
+                Console.WriteLine("J = " + i.ToString());
+            }
+
             Console.ReadLine();
         }
     }
